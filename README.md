@@ -6,7 +6,7 @@ The code is adapted from https://github.com/klappvisor/haskell-telegram-api with
 * updated code to match 2020 Haskell (`enter` became `hoistServer` and `ServantError` became `ServerError`)
 * restructured code base around `stack` as the project manager. 
 
-The adaptation is solely mine. The license to the original code can be found under `LICENCE`.
+The adaptation is solely mine. The license to the original code can be found under `LICENSE`.
 
 # How to use it
 1. Make sure you have `stack` installed and on your `$PATH`.
