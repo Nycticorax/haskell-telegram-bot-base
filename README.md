@@ -11,7 +11,7 @@ The adaptation is solely mine. The license to the original code can be found und
 # How to use it
 1. Make sure you have `stack` installed and on your `$PATH`.
 2. Clone this repository. Then `cd` into it and run `stack build`.
-3. Make sure the following environment variables are set:
+3. Make sure the following environment variables are set (consider https://core.telegram.org/bots/api#authorizing-your-bot for details on how to obtain tokens):
   - TELEGRAM_TOKEN (without the `bot` prefix)
   - PAYMENTS_TOKEN (can be an empty string)
   - PORT (as required by your server configuration)
